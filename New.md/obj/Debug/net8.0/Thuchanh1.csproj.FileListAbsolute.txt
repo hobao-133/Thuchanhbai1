@@ -1,0 +1,14 @@
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanh1\bin\Debug\net8.0\Thuchanh1.exe
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanh1\bin\Debug\net8.0\Thuchanh1.deps.json
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanh1\bin\Debug\net8.0\Thuchanh1.runtimeconfig.json
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanh1\bin\Debug\net8.0\Thuchanh1.dll
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanh1\bin\Debug\net8.0\Thuchanh1.pdb
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanh1\obj\Debug\net8.0\Thuchanh1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanh1\obj\Debug\net8.0\Thuchanh1.AssemblyInfoInputs.cache
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanh1\obj\Debug\net8.0\Thuchanh1.AssemblyInfo.cs
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanh1\obj\Debug\net8.0\Thuchanh1.csproj.CoreCompileInputs.cache
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanh1\obj\Debug\net8.0\Thuchanh1.dll
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanh1\obj\Debug\net8.0\refint\Thuchanh1.dll
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanh1\obj\Debug\net8.0\Thuchanh1.pdb
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanh1\obj\Debug\net8.0\Thuchanh1.genruntimeconfig.cache
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanh1\obj\Debug\net8.0\ref\Thuchanh1.dll
